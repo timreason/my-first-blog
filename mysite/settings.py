@@ -26,6 +26,7 @@ SECRET_KEY = 'pzgm0!!i-*$6@+k=v12zok3q8*-j1!c7bk)-ojww5lfewm%rb4'
 DEBUG = True
 
 ALLOWED_HOSTS = ['http://treason.pythonanywhere.com/',
+                 'treason.pythonanywhere.com',
                  '127.0.0.1', ]
 
 
