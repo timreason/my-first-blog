@@ -25,7 +25,7 @@ SECRET_KEY = 'pzgm0!!i-*$6@+k=v12zok3q8*-j1!c7bk)-ojww5lfewm%rb4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://treason.pythonanywhere.com/',]
 
 
 # Application definition
