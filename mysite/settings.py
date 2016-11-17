@@ -126,3 +126,4 @@ STATIC_ROOT=os.path.join(BASE_DIR, 'static')
 
 #Random comment added to test GitHub
 
+#Another comment to test Github
